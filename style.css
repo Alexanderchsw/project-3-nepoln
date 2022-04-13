@@ -1,0 +1,41 @@
+body {
+position: relative;
+    margin: 0;
+    font-family: Times, Times New Roman, serif;
+    font-size:20px;
+    line-height: 32px;
+    color: #ffffff;
+    background-color: #FFFFFF;
+    background-image: url(files/site5.jpg);
+    background-position: center;
+}
+header {
+    text-align: center;
+    margin: 0px;
+    padding: 30px;
+    line-height: 30px;
+    color: #ffffff;
+	font-size:35px;
+	vertical-align: bottom;
+}
+	
+
+
+h1{
+	font-family:"Montserrat", "Helvetica", "Arial", sans-serif;
+	text-align: center;
+}
+p{
+	margin: 11px 222px;
+}
+.sod{
+	margin: 11px 222px;
+	font-size:27px;
+}
+ol,ul{
+	color:#ffffff;
+	margin: 11px 222px;
+}
+.preim{
+	margin: 35px 222px 35px 222px;
+}
